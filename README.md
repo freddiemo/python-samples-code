@@ -1,5 +1,5 @@
 # About
-Python samples code.
+Python2.7 samples code.
 
 # Free python courses
 
