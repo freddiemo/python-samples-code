@@ -5,4 +5,3 @@ print s + s2
 
 sc = s + s2
 print sc
-

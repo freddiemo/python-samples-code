@@ -6,4 +6,3 @@ print type(t2)
 
 # get element by index
 print t[1]
-

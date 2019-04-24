@@ -12,8 +12,9 @@ print d * c
 # Exponent
 print c ** 2
 # Division
-print c / a # integer result, because the result is converted to the more complex number
-print float(c) /a # float return
+# integer result, because the result is converted to the more complex number
+print c / a
+print float(c) / a  # float return
 # Integer division
 print c / a
 # Module

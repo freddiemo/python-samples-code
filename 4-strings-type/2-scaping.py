@@ -9,7 +9,3 @@ line 3
 lin4
 """
 print s3
-
-
-
-
